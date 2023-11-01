@@ -1,0 +1,15 @@
+/Users/williamhou/Documents/HVGP/C# test/obj/Debug/net5.0/C# test.csproj.AssemblyReference.cache
+/Users/williamhou/Documents/HVGP/C# test/obj/Debug/net5.0/C# test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamhou/Documents/HVGP/C# test/obj/Debug/net5.0/C# test.AssemblyInfoInputs.cache
+/Users/williamhou/Documents/HVGP/C# test/obj/Debug/net5.0/C# test.AssemblyInfo.cs
+/Users/williamhou/Documents/HVGP/C# test/obj/Debug/net5.0/C# test.csproj.CoreCompileInputs.cache
+/Users/williamhou/Documents/HVGP/C# test/bin/Debug/net5.0/C# test.deps.json
+/Users/williamhou/Documents/HVGP/C# test/bin/Debug/net5.0/C# test.runtimeconfig.json
+/Users/williamhou/Documents/HVGP/C# test/bin/Debug/net5.0/C# test.runtimeconfig.dev.json
+/Users/williamhou/Documents/HVGP/C# test/bin/Debug/net5.0/C# test.dll
+/Users/williamhou/Documents/HVGP/C# test/bin/Debug/net5.0/ref/C# test.dll
+/Users/williamhou/Documents/HVGP/C# test/bin/Debug/net5.0/C# test.pdb
+/Users/williamhou/Documents/HVGP/C# test/obj/Debug/net5.0/C# test.dll
+/Users/williamhou/Documents/HVGP/C# test/obj/Debug/net5.0/ref/C# test.dll
+/Users/williamhou/Documents/HVGP/C# test/obj/Debug/net5.0/C# test.pdb
+/Users/williamhou/Documents/HVGP/C# test/obj/Debug/net5.0/C# test.genruntimeconfig.cache
