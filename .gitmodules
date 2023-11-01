@@ -1,9 +1,9 @@
 [submodule "Tower Defense Test"]
 	path = Tower Defense Test
-	url = ./Tower Defense Test
+	url = https://github.com/williamhCode/Tower-Defense-Test.git
 [submodule "Final-Project-Tower-Defense"]
 	path = Final-Project-Tower-Defense
-	url = ./Final-Project-Tower-Defense
+	url = https://github.com/williamhCode/Final-Project-Tower-Defense.git
 [submodule "Text-Adventure"]
 	path = Text-Adventure
-	url = ./Text-Adventure
+	url = https://github.com/williamhCode/Text-Adventure.git
